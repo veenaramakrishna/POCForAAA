@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AAA Testing Suite" duration-ms="101911" started-at="2020-07-02T19:12:15 EDT" finished-at="2020-07-02T19:13:57 EDT">
+    <groups>
+    </groups>
+    <test name="AAA Testing App Test Cases" duration-ms="101911" started-at="2020-07-02T19:12:15 EDT" finished-at="2020-07-02T19:13:57 EDT">
+      <class name="com.aaa.qa.testcases.TraditionalTermQuoteTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.aaa.qa.testcases.TraditionalTermQuoteTest@396f6598]" name="setUp" is-config="true" duration-ms="56174" started-at="2020-07-02T19:12:29 EDT" finished-at="2020-07-02T19:13:26 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateTTQuoteTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.aaa.qa.testcases.TraditionalTermQuoteTest@396f6598]" name="ValidateTTQuoteTest" duration-ms="9749" started-at="2020-07-02T19:13:26 EDT" data-provider="getTTQuoteData" finished-at="2020-07-02T19:13:35 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[48526.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[January]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1991.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[mailtrapsupertesting1@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[145.0]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Never]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Good]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[500000.0]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTTQuoteTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.aaa.qa.testcases.TraditionalTermQuoteTest@396f6598]" name="tearDown" is-config="true" duration-ms="1371" started-at="2020-07-02T19:13:35 EDT" finished-at="2020-07-02T19:13:37 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.aaa.qa.testcases.TraditionalTermQuoteTest@396f6598]" name="setUp" is-config="true" duration-ms="9896" started-at="2020-07-02T19:13:37 EDT" finished-at="2020-07-02T19:13:47 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateTTQuoteTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.aaa.qa.testcases.TraditionalTermQuoteTest@396f6598]" name="ValidateTTQuoteTest" duration-ms="8345" started-at="2020-07-02T19:13:47 EDT" data-provider="getTTQuoteData" finished-at="2020-07-02T19:13:55 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[89562.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[February]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1992.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[mailtrap@gmail.com]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[6.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[150.0]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Never]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Excellent]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[450000.0]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTTQuoteTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.aaa.qa.testcases.TraditionalTermQuoteTest@396f6598]" name="tearDown" is-config="true" duration-ms="1894" started-at="2020-07-02T19:13:55 EDT" finished-at="2020-07-02T19:13:57 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.aaa.qa.testcases.TraditionalTermQuoteTest -->
+    </test> <!-- AAA Testing App Test Cases -->
+  </suite> <!-- AAA Testing Suite -->
+</testng-results>

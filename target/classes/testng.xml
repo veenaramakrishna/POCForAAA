@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AAA Testing Suite">
+
+	<test name="AAA Testing App Test Cases">
+		<classes>
+			<class name="com.aaa.qa.testcases.TraditionalTermQuoteTest"></class>
+		</classes>
+	</test>
+</suite>
